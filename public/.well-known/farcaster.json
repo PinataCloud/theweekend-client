@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjYwMjMsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg0NTYxMzExNjFmODNDN0Q3ZkRBMTViMzJhNWY3QzIxRkQ0RTI3RTk2In0",
+    "payload": "eyJkb21haW4iOiJ0aGV3ZWVrZW5kLmxvbCJ9",
+    "signature": "MHgyOGZlYjNiMGEzZDQyYjMxYTc2YTU4NTVjNzhiNGEzNTUyMGM3MTdhNjg5ODViZDAzZWE0YzhlM2YxNmNjNGFiNGExN2JiMGI3ZWViNjlhMTkxYTk3NjI0N2M3NjQwODRhZjRlNmRiMWIyOGI4YmNhYWFiZDViMjFiNTE1Y2ViZTFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "The Weekend",
+    "iconUrl": "https://theweekend.lol/icon.png",
+    "homeUrl": "https://theweekend.lol",
+    "imageUrl": "https://theweekend.lol/frame.png",
+    "buttonTitle": "Mint The Weekend",
+    "splashImageUrl": "https://theweekend.lol/icon.png",
+    "splashBackgroundColor": "#ffffff"
+  }
+}

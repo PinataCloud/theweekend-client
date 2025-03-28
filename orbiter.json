@@ -1,0 +1,6 @@
+{
+  "siteId": "fe16060c-1b84-4e66-987f-7e9e2847b304",
+  "domain": "theweekend",
+  "buildCommand": "npm run build",
+  "buildDir": "dist"
+}
